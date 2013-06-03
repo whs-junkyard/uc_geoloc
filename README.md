@@ -7,6 +7,9 @@ This module was written during NLC11 competition and was only tested to the Siri
 Put this in sites/all/modules and enable it. Requires ubercart.
 
 ## Usage
+
+[Screenshot](http://i.imgur.com/CXgeRwG.png)
+
 On checkout address form, there will be a new button if the application detects that the browser supports HTML5 Geolocation API.
 
 Note that during NLC11, a certain Firefox version does indicate support for Geolocation, but in fact does not work.
