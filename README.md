@@ -8,7 +8,7 @@ Put this in sites/all/modules and enable it. Requires ubercart.
 
 ## Usage
 
-[Screenshot](http://i.imgur.com/CXgeRwG.png)
+![Screenshot](http://i.imgur.com/CXgeRwG.png)
 
 On checkout address form, there will be a new button if the application detects that the browser supports HTML5 Geolocation API.
 
